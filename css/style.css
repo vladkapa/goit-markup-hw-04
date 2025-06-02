@@ -80,6 +80,8 @@ body {
 }
 
 ul {
+  margin: 0;
+  padding-left: 0;
   list-style: none;
 }
 /* BASE STYLE END */
@@ -179,7 +181,7 @@ ul {
   height: 4px;
   border-radius: 2px;
   position: absolute;
-  bottom: -1px;
+  bottom: 3px;
   transform: translateY(100%);
   transition-property: transform;
   transition-duration: 250ms;

@@ -181,7 +181,7 @@ ul {
   height: 4px;
   border-radius: 2px;
   position: absolute;
-  bottom: 3px;
+  bottom: -1px;
   transform: translateY(100%);
   transition-property: transform;
   transition-duration: 250ms;
